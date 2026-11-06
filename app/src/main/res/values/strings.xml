@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mitaka Cafe</string>
+    <string name="judul">Mitaka Cafe</string>
+    <string name="Slogan">Tempat Cafe Terenak dan Ternyaman</string>
+    <string name="Mulai">Mulai Sekarang</string>
+    <string name="logo">Logo</string>
+    <string name="SignUp">SignUp</string>
+    <string name="deskripsi">Bergabunglah dengan Mitaka Cafe dan nikmati pengalaman memesan kopi
+        serta berbagai hidangan favorit dengan lebih mudah. Buat akun sekarang untuk mendapatkan akses ke menu pilihan,
+        melakukan pemesanan, dan menikmati berbagai penawaran menarik dari Mitaka Cafe.</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="sudah_punya_akun">Sudah punya akun?</string>
+    <string name="buat_akun_baru_untuk_mulai_memesan">Buat akun baru untuk mulai memesan</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="halaman_order">Halaman Order</string>
+    <string name="halaman_profile">Halaman Profile</string>
+    <string name="halaman_konfirmasi">Halaman Konfirmasi</string>
+</resources>
